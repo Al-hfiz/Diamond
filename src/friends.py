@@ -2,9 +2,9 @@
 # coding=utf-8
 
 #######################################################
-# Name           : DIAMOND (MBF) <cookie method>      #
+# Name           : Diamond (MBF) <cookie method>      #
 # File           : friends.py                         #
-# Author         : Al-hfiz                            #
+# Author         : DulLah                             #
 # Github         : https://github.com/Al-hfiz         #
 # Python version : 2.7                                #
 #######################################################
