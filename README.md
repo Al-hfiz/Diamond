@@ -12,6 +12,6 @@ pip2 install requests bs4
 
 ## Run script
 ```
-cd mbf
-python2 run.py
+cd Diamond
+python2 Diamond.py
 ```
