@@ -3,7 +3,7 @@
 
 #######################################################
 # Name           : DIAMOND (MBF) <cookie method>      #
-# File           : run.py                             #
+# File           : Diamond.py                         #
 # Author         : Al-Hafiz                           #
 # Github         : https://github.com/Al-hfiz         #
 # Python version : 2.7                                #
