@@ -1,2 +1,2 @@
-# Diamond
-Empedu itu menjadi permata💎
+# Diamond💎
+Empedu itu menjadi permata⚡
