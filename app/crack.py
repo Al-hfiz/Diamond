@@ -2,8 +2,8 @@
 # coding=utf-8
 
 #######################################################
-# Name           : Multi BF (MBF) <cookie method>     #
-# File           : Diamond.py                         #
+# Name           : Diamond (MBF) <cookie method>      #
+# File           : crack.py                           #
 # Author         : Al-Hafiz                           #
 # Github         : https://github.com/Al-hfiz         #
 # Python version : 2.7                                #
